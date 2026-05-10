@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Songsoo
 middle_name:
-last_name: Kim
+last_name: "Kim, MD PhD"
 contact_note: >
   Feel free to reach out by email — it's the fastest way to get in touch.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

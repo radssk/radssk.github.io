@@ -1,189 +1,145 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  name: Songsoo Kim, MD, PhD
+  label: Postdoctoral Research Fellow | AI & Imaging Informatics
+  email: crown7699@gmail.com
+  phone: (+82)-10-8635-1185
+  location: Seoul, Republic of Korea
+  summary: >
+    Postdoctoral Research Fellow at the AICON Lab, Department of Radiology,
+    Seoul National University Hospital. Diagnostic radiologist (MD, PhD) working
+    on AI for medical imaging and clinical informatics, with a focus on
+    radiology report intelligence, multimodal risk prediction, and real-world
+    clinical translation.
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Yonsei University College of Medicine
+        location: Seoul, Republic of Korea
+        area: Biomedical Systems Informatics (Supervisor: Dukyong Yoon)
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        start_date: 2023
+        end_date: 2026
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Kyungpook National University, College of Medicine
+        location: Daegu, Republic of Korea
+        area: Medicine
+        studyType: M.D.
+        start_date: 2012
+        end_date: 2018
+
+      - institution: Yonsei University, College of Life Science and Biotechnology
+        location: Seoul, Republic of Korea
+        area: Biochemistry
+        studyType: B.S.
+        start_date: 2010
+        end_date: 2014
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Department of Radiology, Seoul National University Hospital
+        position: Postdoctoral Research Fellow
+        location: Seoul, Republic of Korea
+        start_date: 2026
+        end_date:
+        summary: The Advanced Imaging and Computational Neuroimaging (AICON) Laboratory (PI&#58; Kyu Sung Choi)
+
+      - company: Severance Hospital, Yonsei University College of Medicine
+        position: Research Fellow (Physician-Scientist Track)
+        location: Seoul, Republic of Korea
+        start_date: 2023
+        end_date: 2026
+
+      - company: Department of Radiology, UMass Chan Medical School / UMass Memorial Medical Center
+        position: Visiting Research Assistant
+        location: Worcester, MA, USA
+        start_date: 2022-10
+        end_date: 2022-10
         highlights:
-          - Relativity
-          - Description 2.
+          - Conducted research on Medical Ultrasound Artificial Intelligence with Prof. Young Kim, MD, PhD.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Gangnam Severance Hospital, Yonsei University College of Medicine
+        position: Residency, Diagnostic Radiology
+        location: Seoul, Republic of Korea
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - Chief resident (2022.07 – 2022.10)
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Yonsei University Health System
+        position: Internship
+        location: Seoul, Republic of Korea
+        start_date: 2018
+        end_date: 2019
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Trainee Research Prize (Imaging Informatics category)
+        awarder: Radiological Society of North America (RSNA)
+        date: 2025
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Merit Academic Paper Award (Spring 2025)
+        awarder: Yonsei University Graduate School
+        date: 2025
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Outstanding Research Achievement Scholarship (Fall 2024)
+        awarder: Yonsei University College of Medicine
+        date: 2024
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Outstanding Resident in Research
+        awarder: Gangnam Severance Hospital, Yonsei University College of Medicine
+        date: 2022
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Grants:
+      - bullet: "**European Congress of Radiology 2026 Travel Grant** — Korean Society of Radiology (KRW 4M / USD 3K), 2026"
+      - bullet: "**European Congress of Radiology 2025 Travel Grant** — Korean Society of Radiology (KRW 4M / USD 3K), 2025"
+      - bullet: "**Physician-Scientist Training Program** — Yonsei University College of Medicine (KRW 75M / USD 58K), 2023 – 2026"
+      - bullet: "**Full-time PhD Program**, MD-PhD/Medical Scientist Training Program — Korea Health Industry Development Institute, Ministry of Health & Welfare (KRW 225M / USD 173K), 2023 – 2026"
+      - bullet: "**Residency Program**, MD-PhD/Medical Scientist Training Program — Korea Health Industry Development Institute, Ministry of Health & Welfare (KRW 20M / USD 15K), 2022 – 2023"
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Licenses and Certifications:
+      - bullet: "**Board of Radiology** (No. 4615), Ministry of Health & Welfare, Republic of Korea (2023)"
+      - bullet: "**Medical Doctor License** (No. 130233), Ministry of Health & Welfare, Republic of Korea (2018)"
+      - bullet: "**Emergency Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2024)"
+      - bullet: "**Advanced Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2023)"
+      - bullet: "**Clinical Research Methodology Course (CRMC) – Advanced Program**, The Korean Society of Radiology (2023)"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+    Selected Publications:
+      - bullet: "See the full list on the [publications page](/publications/) — first-author papers marked with *. Highlights include *Radiology* (2025), *iScience* (2024), and *Healthcare Informatics Research* (2025)."
 
-      - name: English
-        summary: "Fluent"
+    Conference Activities:
+      - bullet: "**Educational Poster (presenter)**, _AI-Driven Opportunistic Screening for Hidden Clinical Risks: A Practical Research Primer_, ECR 2026, Vienna — *Top-rated Poster, EPOS™ PULSE Live presentation*."
+      - bullet: "**Digital presentation (presenter)**, _Opportunistic Screening of Diabetes Using AI-Extracted Whole-body MRI Biomarkers_, RSNA 2025, Chicago — *Trainee Research Prize*."
+      - bullet: "**Oral presentation (presenter)**, _AI-Driven MRI Biomarker Extraction and Machine Learning Analysis of Their Association with Diabetes: A UK Biobank Study_, ECR 2025, Vienna."
+      - bullet: "**Educational Poster**, _Do not overlook Hirayama disease: Even without a characteristic flexion MRI finding_, ECR 2025, Vienna."
+      - bullet: "**Oral Presentation (presenter)**, _Leveraging GPT-4 for Error Detection on Brain CT Report: A Comparative Study of Different Report Formats and Error Types_, RSNA 2023, Chicago."
+      - bullet: "**Oral Presentation (presenter)**, _Few-Shot Prompting for Labeling Free-Text Radiology Report Using GPT-4_, RSNA 2023, Chicago."
+      - bullet: "**Oral Presentation (presenter)**, _Risk factors for spontaneous hemorrhage in brain metastases in patients with lung adenocarcinoma_, AOCR & KCR 2022, Seoul."
+      - bullet: "**Oral Presentation (presenter)**, _Impaired meningeal lymphatic drainage in patients with mild cognitive impairment_, AOCR & KCR 2022, Seoul."
+      - bullet: "**Organizing Committee Member**, Young Radiologists Forum, KSSR Spring Symposium 2022, Busan."
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Invited Lectures and Seminars:
+      - bullet: "_Leveraging Large Language Models for Error Detection in Radiology Reports_ — 2025 Spring Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE), Clinician-Engineer Session, Jeju (2025.05.08)."
+      - bullet: "_Medical Data-Specific Quality Management Metrics_ — 2024 Symposium of the Institute for Innovation in Digital Healthcare (IIDH), LYDUS Session, Severance Hospital, Seoul (2024.11.20)."
+      - bullet: "_Applying Large Language Models in Medicine with Python — A Practical Guide_ — Lab of Artificial Intelligence in Medicine, Graduate School of Medicine, Ajou University, Suwon (2024.05.13)."
+      - bullet: "_Bulk Processing and Utilization of Large Language Models via APIs — Hands-On Training_ — 2024 Winter School of the Korean Society of Medical Informatics (KOSMI), Seoul (2024.01.17)."
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Academic Service:
+      - bullet: "**Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Development of a Multidimensional Quality Evaluation System for Health and Medical Big Data
+        start_date: 2023
+        end_date: 2025
+        summary: >
+          Government-funded national R&D project on medical data quality
+          management, led by Yonsei University College of Medicine
+          (PI: Prof. Dukyong Yoon) with Seoul National University Hospital,
+          Samsung Medical Center, and Severance Hospital.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Contributed as research associate, focusing on developing metrics, programs, and guidelines for medical data quality management.
+          - Presented project outcomes at consortium meetings.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Patents:
+      - bullet: "Yoon, D., **Kim, S.**, Ryu, J., Choi, Y., Han, C. *Apparatus and method for evaluating the quality of medical data based on fidelity.* Korean Patent Application No. 10-2024-0094441, filed July 17, 2024. Patent pending."
+      - bullet: "Yoon, D., Han, C., Bae, S., **Kim, S.**, Kim, D. *Method for providing information on the risk of developing cardiovascular diseases and device using the same.* Korean Patent Application No. 10-2024-0091928, filed July 11, 2024. Patent pending."
+      - bullet: "Yoon, D., Han, C., Ryu, J., Choi, Y., **Kim, S.** *Apparatus and method for evaluating the quality of medical data based on reliability.* Korean Patent Application No. 10-2024-0089258, filed July 5, 2024. Patent pending."
+      - bullet: "Yoon, D., Choi, Y., Ryu, J., **Kim, S.**, Han, C. *Apparatus and method for evaluating the quality of medical data based on data consistency.* Korean Patent Application No. 10-2024-0050332, filed April 15, 2024. Patent pending."
+      - bullet: "Yoon, D., Ryu, J., Han, C., **Kim, S.**, Choi, Y. *Apparatus and method for evaluating the quality of medical data based on precedence and precedence relationships.* Korean Patent Application No. 10-2024-0046975, filed April 5, 2024. Patent pending."
