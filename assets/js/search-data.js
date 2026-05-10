@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "Curriculum Vitae of Songsoo Kim, MD, PhD.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -391,16 +391,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-large-scale-validation-of-the-feasibility-of-gpt-4-as-a-proofreading-tool-for-head-ct-reports-was-accepted-to-radiology-newspaper",
+          title: 'Our paper Large-Scale Validation of the Feasibility of GPT-4 as a Proofreading Tool...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-awarded-the-rsna-trainee-research-prize-imaging-informatics-category-at-the-2025-rsna-annual-meeting-in-chicago-for-opportunistic-screening-of-diabetes-using-ai-extracted-whole-body-mri-biomarkers-trophy",
+          title: 'Awarded the RSNA Trainee Research Prize (Imaging Informatics category) at the 2025 RSNA...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-successfully-defended-my-phd-in-biomedical-systems-informatics-at-yonsei-university-college-of-medicine-advisor-prof-dukyong-yoon-mortar-board",
+          title: 'Successfully defended my PhD in Biomedical Systems Informatics at Yonsei University College of...',
+          description: "",
+          section: "News",},{id: "news-joined-the-advanced-imaging-and-computational-neuroimaging-aicon-laboratory-pi-kyu-sung-choi-at-seoul-national-university-hospital-as-a-postdoctoral-research-fellow-microscope",
+          title: 'Joined the Advanced Imaging and Computational Neuroimaging (AICON) Laboratory (PI: Kyu Sung Choi)...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
