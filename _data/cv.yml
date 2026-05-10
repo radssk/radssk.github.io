@@ -15,7 +15,7 @@ cv:
     Education:
       - institution: Yonsei University College of Medicine
         location: Seoul, Republic of Korea
-        area: Biomedical Systems Informatics (Supervisor: Dukyong Yoon)
+        area: "Biomedical Systems Informatics (Supervisor: Dukyong Yoon)"
         studyType: PhD
         start_date: 2023
         end_date: 2026
