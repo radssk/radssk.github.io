@@ -24,7 +24,7 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I'm **Songsoo Kim**, a radiologist and physician-scientist working at the intersection of **medical-imaging AI and clinical translation**. My goal is to advance radiology practice and, ultimately, improve patient care.
+Hi! I'm **Songsoo Kim**, a radiologist and physician-scientist working at the intersection of **medical-imaging AI and clinical translation**. As AI opens up new methods and new questions for radiology, my goal is to channel them into more meaningful medical imaging — advancing radiology practice and, ultimately, improving patient care.
 
 I'm currently a Postdoctoral Research Fellow in the **Department of Radiology at Seoul National University Hospital**. Before joining SNUH, I completed my diagnostic radiology residency at Gangnam Severance Hospital and my PhD in Biomedical Systems Informatics at Yonsei University College of Medicine.
 
