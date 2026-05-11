@@ -32,4 +32,4 @@ Hi! I'm **Songsoo Kim**, a radiologist and physician-scientist. To unlock the fu
 
 I'm currently a Postdoctoral Research Fellow in the Department of Radiology at Seoul National University Hospital. Before joining SNUH, I completed my PhD in Biomedical Systems Informatics at Yonsei University College of Medicine and my radiology residency at Gangnam Severance Hospital.
 
-I genuinely love collaborating across disciplines — some of my favorite ideas have come from conversations with clinicians, engineers, and data scientists over coffee (or late-night Slack). If any of this resonates with you, please reach out!
+I genuinely love working across disciplines — some of my favorite ideas have come from conversations with radiologists, clinicians, engineers, and data scientists, whether over coffee, in conference hallways, or across time zones. If any of this resonates with you — wherever you are — please reach out!
