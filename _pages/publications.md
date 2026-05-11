@@ -17,10 +17,10 @@ nav_order: 2
 
 <h2>First-author publications</h2>
 
-{% bibliography --query "@*[first_author=true]" %}
+{% bibliography -f papers %}
 
 <h2>Co-authored publications</h2>
 
-{% bibliography --query "@*[!first_author]" %}
+{% bibliography -f coauthored %}
 
 </div>
