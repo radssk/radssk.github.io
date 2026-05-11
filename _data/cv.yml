@@ -4,11 +4,6 @@ cv:
   email: crown7699@gmail.com
   phone: (+82)-10-8635-1185
   location: Seoul, Republic of Korea
-  summary: >
-    Radiologist and physician-scientist working across medical-imaging AI and
-    translational research, with the goal of advancing radiology practice and
-    patient care. Currently a Postdoctoral Research Fellow at the AICON Lab,
-    Department of Radiology, Seoul National University Hospital.
 
   sections:
     Higher degree:
@@ -16,21 +11,18 @@ cv:
         location: Seoul, Republic of Korea
         area: "Biomedical Systems Informatics (Supervisor: Dukyong Yoon)"
         studyType: PhD
-        start_date: 2023
         end_date: 2026
 
       - institution: Kyungpook National University, College of Medicine
         location: Daegu, Republic of Korea
         area: Medicine
         studyType: M.D.
-        start_date: 2012
         end_date: 2018
 
       - institution: Yonsei University, College of Life Science and Biotechnology
         location: Seoul, Republic of Korea
         area: Biochemistry
         studyType: B.S.
-        start_date: 2010
         end_date: 2014
 
     Postgraduate training:
