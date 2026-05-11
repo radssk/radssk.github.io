@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper _Large-Scale Validation of the Feasibility of GPT-4 as a Proofreading Tool for Head CT Reports_ was accepted to _Radiology_. :newspaper:
+Our paper _[Large-Scale Validation of the Feasibility of GPT-4 as a Proofreading Tool for Head CT Reports](https://pubs.rsna.org/doi/10.1148/radiol.240701)_ was accepted to _Radiology_. :newspaper:
