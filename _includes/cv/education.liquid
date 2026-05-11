@@ -16,6 +16,8 @@
           {% capture end_date %}
             {% if entry.end_date %}{{ entry.end_date }}{% elsif entry.endDate %}{{ entry.endDate }}{% endif %}
           {% endcapture %}
+          {% assign start_date = start_date | strip %}
+          {% assign end_date = end_date | strip %}
 
           {% assign startDate = start_date | split: '-' | first %}
           {% assign endDate = end_date | split: '-' | first %}
