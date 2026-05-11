@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Publications in reverse-chronological order. First-author and co-first-author publications are listed first.",
+          description: "Publications in reverse-chronological order. * denotes first author and † denotes co-first author.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -492,13 +492,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=XWmBcr0AAAAJ", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
