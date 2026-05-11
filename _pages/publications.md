@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications in reverse-chronological order. First-author and co-first-author publications are listed first.
+description: Publications in reverse-chronological order. <sup>*</sup> denotes first author and <sup>†</sup> denotes co-first author.
 nav: true
 nav_order: 2
 ---
@@ -15,12 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-<h2>First-author publications</h2>
-
-{% bibliography -f papers %}
-
-<h2>Co-authored publications</h2>
-
-{% bibliography -f coauthored %}
+{% bibliography %}
 
 </div>
