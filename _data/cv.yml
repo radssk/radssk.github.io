@@ -1,9 +1,5 @@
 cv:
   name: Songsoo Kim, MD, PhD
-  label: Postdoctoral Research Fellow | AI & Imaging Informatics
-  email: crown7699@gmail.com
-  phone: (+82)-10-8635-1185
-  location: Seoul, Republic of Korea
 
   sections:
     Higher degree:
@@ -62,21 +58,10 @@ cv:
         end_date: 2019
 
     Awards:
-      - title: Trainee Research Prize (Imaging Informatics category)
-        awarder: Radiological Society of North America (RSNA)
-        date: 2025
-
-      - title: Merit Academic Paper Award (Spring 2025)
-        awarder: Yonsei University Graduate School
-        date: 2025
-
-      - title: Outstanding Research Achievement Scholarship (Fall 2024)
-        awarder: Yonsei University College of Medicine
-        date: 2024
-
-      - title: Outstanding Resident in Research
-        awarder: Gangnam Severance Hospital, Yonsei University College of Medicine
-        date: 2022
+      - bullet: "**Trainee Research Prize** (Imaging Informatics category) — Radiological Society of North America (RSNA) (2025)"
+      - bullet: "**Merit Academic Paper Award** (Spring 2025) — Yonsei University Graduate School (2025)"
+      - bullet: "**Outstanding Research Achievement Scholarship** (Fall 2024) — Yonsei University College of Medicine (2024)"
+      - bullet: "**Outstanding Resident in Research** — Gangnam Severance Hospital, Yonsei University College of Medicine (2022)"
 
     Grants:
       - bullet: "**European Congress of Radiology 2026 Travel Grant** — Korean Society of Radiology (KRW 4M / USD 3K), 2026"
