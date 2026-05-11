@@ -9,13 +9,9 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Radiology</p>
-    <p>Seoul National University Hospital</p>
-    <p>crown7699@gmail.com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,8 +24,8 @@ latest_posts:
   limit: 3
 ---
 
-Hi! I'm a Postdoctoral Research Fellow in the Department of Radiology at Seoul National University Hospital. I work on **AI for medical imaging and clinical informatics** — including radiology report intelligence, multimodal risk prediction, and real-world clinical translation.
+Hi! I'm **Songsoo Kim**, a radiologist and physician-scientist. To unlock the full value of medical imaging, I work across **medical-imaging AI** and **translational research that bridges the lab and the clinic**. My driving goal is to advance radiology practice and, ultimately, patient care.
 
-Lately, I have been applying large language models and deep learning to radiology workflows such as report labeling, error detection, and opportunistic screening. My work has been presented at **RSNA** and **ECR**, and was recognized with the **RSNA Trainee Research Prize**.
+I'm currently a Postdoctoral Research Fellow in the Department of Radiology at Seoul National University Hospital. Before joining SNUH, I completed my PhD in Biomedical Systems Informatics at Yonsei University College of Medicine and my radiology residency at Gangnam Severance Hospital.
 
-I'm broadly interested in building reliable, clinically useful AI systems that improve diagnostic quality and patient outcomes. Feel free to reach out — I'm always happy to chat about research, collaborations, or anything in between.
+I genuinely love working across disciplines — some of my favorite ideas have come from conversations with radiologists, clinicians, engineers, and data scientists, whether over coffee, in conference hallways, or across time zones. If any of this resonates with you — wherever you are — please reach out!

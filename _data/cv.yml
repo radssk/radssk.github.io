@@ -4,37 +4,28 @@ cv:
   email: crown7699@gmail.com
   phone: (+82)-10-8635-1185
   location: Seoul, Republic of Korea
-  summary: >
-    Postdoctoral Research Fellow at the AICON Lab, Department of Radiology,
-    Seoul National University Hospital. Diagnostic radiologist (MD, PhD) working
-    on AI for medical imaging and clinical informatics, with a focus on
-    radiology report intelligence, multimodal risk prediction, and real-world
-    clinical translation.
 
   sections:
-    Education:
+    Higher degree:
       - institution: Yonsei University College of Medicine
         location: Seoul, Republic of Korea
         area: "Biomedical Systems Informatics (Supervisor: Dukyong Yoon)"
         studyType: PhD
-        start_date: 2023
         end_date: 2026
 
       - institution: Kyungpook National University, College of Medicine
         location: Daegu, Republic of Korea
         area: Medicine
         studyType: M.D.
-        start_date: 2012
         end_date: 2018
 
       - institution: Yonsei University, College of Life Science and Biotechnology
         location: Seoul, Republic of Korea
         area: Biochemistry
         studyType: B.S.
-        start_date: 2010
         end_date: 2014
 
-    Experience:
+    Postgraduate training:
       - company: Department of Radiology, Seoul National University Hospital
         position: Postdoctoral Research Fellow
         location: Seoul, Republic of Korea
@@ -97,12 +88,14 @@ cv:
     Licenses and Certifications:
       - bullet: "**Board of Radiology** (No. 4615), Ministry of Health & Welfare, Republic of Korea (2023)"
       - bullet: "**Medical Doctor License** (No. 130233), Ministry of Health & Welfare, Republic of Korea (2018)"
-      - bullet: "**Emergency Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2024)"
-      - bullet: "**Advanced Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2023)"
-      - bullet: "**Clinical Research Methodology Course (CRMC) – Advanced Program**, The Korean Society of Radiology (2023)"
 
-    Selected Publications:
-      - bullet: "See the full list on the [publications page](/publications/) — first-author papers marked with *. Highlights include *Radiology* (2025), *iScience* (2024), and *Healthcare Informatics Research* (2025)."
+    Professional development:
+      - bullet: "**Emergency Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2024)"
+      - bullet: "**Clinical Research Methodology Course (CRMC) – Advanced Program**, The Korean Society of Radiology (2023) — Completed a 2-day mentoring workshop on advanced research methodologies, including statistical techniques, and delivered a presentation on a selected topic."
+      - bullet: "**Advanced Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2023)"
+
+    Publications:
+      - bullet: "See the full list on the [publications page](/publications/)."
 
     Conference Activities:
       - bullet: "**Educational Poster (presenter)**, _AI-Driven Opportunistic Screening for Hidden Clinical Risks: A Practical Research Primer_, ECR 2026, Vienna — *Top-rated Poster, EPOS™ PULSE Live presentation*."
@@ -116,10 +109,10 @@ cv:
       - bullet: "**Organizing Committee Member**, Young Radiologists Forum, KSSR Spring Symposium 2022, Busan."
 
     Invited Lectures and Seminars:
-      - bullet: "_Leveraging Large Language Models for Error Detection in Radiology Reports_ — 2025 Spring Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE), Clinician-Engineer Session, Jeju (2025.05.08)."
-      - bullet: "_Medical Data-Specific Quality Management Metrics_ — 2024 Symposium of the Institute for Innovation in Digital Healthcare (IIDH), LYDUS Session, Severance Hospital, Seoul (2024.11.20)."
-      - bullet: "_Applying Large Language Models in Medicine with Python — A Practical Guide_ — Lab of Artificial Intelligence in Medicine, Graduate School of Medicine, Ajou University, Suwon (2024.05.13)."
-      - bullet: "_Bulk Processing and Utilization of Large Language Models via APIs — Hands-On Training_ — 2024 Winter School of the Korean Society of Medical Informatics (KOSMI), Seoul (2024.01.17)."
+      - bullet: "_Leveraging Large Language Models for Error Detection in Radiology Reports_ — **2025 Spring Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE)**, Clinician-Engineer Session, Jeju (2025.05.08)."
+      - bullet: "_Medical Data-Specific Quality Management Metrics_ — **2024 Symposium of the Institute for Innovation in Digital Healthcare (IIDH)**, LYDUS Session, Severance Hospital, Seoul (2024.11.20)."
+      - bullet: "_Applying Large Language Models in Medicine with Python — A Practical Guide_ — **Lab of Artificial Intelligence in Medicine, Graduate School of Medicine, Ajou University**, Suwon (2024.05.13)."
+      - bullet: "_Bulk Processing and Utilization of Large Language Models via APIs — Hands-On Training_ — **2024 Winter School of the Korean Society of Medical Informatics (KOSMI)**, Seoul (2024.01.17)."
 
     Academic Service:
       - bullet: "**Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
