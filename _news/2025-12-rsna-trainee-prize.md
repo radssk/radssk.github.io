@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the **RSNA Trainee Research Prize** (Imaging Informatics category) at the 2025 RSNA Annual Meeting in Chicago for _Opportunistic Screening of Diabetes Using AI-Extracted Whole-body MRI Biomarkers_. :trophy:
+Awarded the **Trainee Research Prize** (Imaging Informatics category) at the 2025 Annual Meeting of the Radiological Society of North America (RSNA) for _Opportunistic Screening of Diabetes Using AI-Extracted Whole-body MRI Biomarkers_. :trophy:
