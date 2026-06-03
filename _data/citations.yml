@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-03'
 papers:
   XWmBcr0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 27
+    citations: 26
     title: Large-scale validation of the feasibility of GPT-4 as a proofreading tool for head CT reports
     year: '2025'
   XWmBcr0AAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Readability versus accuracy in LLM-transformed radiology reports: stakeholder preferences across reading grade levels'
     year: '2025'
   XWmBcr0AAAAJ:qjMakFHDy7sC:
-    citations: 27
+    citations: 28
     title: 'Redefining health care data interoperability: empirical exploration of large language models in information exchange'
     year: '2024'
   XWmBcr0AAAAJ:u5HHmVD_uO8C:
