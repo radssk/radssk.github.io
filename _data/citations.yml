@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-06-08'
 papers:
+  XWmBcr0AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Improving Radiology Report Error Detection Using a Multipass Large Language Model: Framework Development and Validation'
+    year: '2026'
   XWmBcr0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 26
+    citations: 24
     title: Large-scale validation of the feasibility of GPT-4 as a proofreading tool for head CT reports
     year: '2025'
   XWmBcr0AAAAJ:UeHWp8X0CEIC:
@@ -17,10 +21,6 @@ papers:
     citations: 0
     title: Electrocardiogram-based deep learning score for coronary artery calcification reclassifies cardiovascular risk and identifies screening candidates
     year: '2026'
-  XWmBcr0AAAAJ:Y0pCki6q_DkC:
-    citations: 0
-    title: A Multi-Pass Large Language Model Framework for Precise and Efficient Radiology Report Error Detection
-    year: '2025'
   XWmBcr0AAAAJ:YsMSGLbcyi4C:
     citations: 2
     title: 'In-Context Learning with Large Language Models: A Simple and Effective Approach to Improve Radiology Report Labeling'
@@ -50,6 +50,6 @@ papers:
     title: 'CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation'
     year: '2026'
   XWmBcr0AAAAJ:zYLM7Y9cAGgC:
-    citations: 52
+    citations: 53
     title: 'Evaluation of GPT-4 for 10-year cardiovascular risk prediction: Insights from the UK Biobank and KoGES data'
     year: '2024'
