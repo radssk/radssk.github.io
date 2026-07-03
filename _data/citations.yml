@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-03'
 papers:
   XWmBcr0AAAAJ:LkGwnXOMwfcC:
     citations: 0
     title: 'Improving Radiology Report Error Detection Using a Multipass Large Language Model: Framework Development and Validation'
     year: '2026'
   XWmBcr0AAAAJ:Tyk-4Ss8FVUC:
-    citations: 27
+    citations: 26
     title: Large-scale validation of the feasibility of GPT-4 as a proofreading tool for head CT reports
     year: '2025'
   XWmBcr0AAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: "Development and Validation of Deep Learning\u2013Based Infectivity Prediction in Pulmonary Tuberculosis Through Chest Radiography: Retrospective Study"
     year: '2024'
   XWmBcr0AAAAJ:W7OEmFMy1HYC:
@@ -26,7 +26,7 @@ papers:
     title: 'In-Context Learning with Large Language Models: A Simple and Effective Approach to Improve Radiology Report Labeling'
     year: '2025'
   XWmBcr0AAAAJ:_FxGoFyzp5QC:
-    citations: 0
+    citations: 1
     title: Surrogate modeling for interpreting black-box LLMs in medical predictions
     year: '2026'
   XWmBcr0AAAAJ:d1gkVwhDpl0C:
@@ -38,9 +38,13 @@ papers:
     title: 'Readability versus accuracy in LLM-transformed radiology reports: stakeholder preferences across reading grade levels'
     year: '2025'
   XWmBcr0AAAAJ:qjMakFHDy7sC:
-    citations: 28
+    citations: 30
     title: 'Redefining health care data interoperability: empirical exploration of large language models in information exchange'
     year: '2024'
+  XWmBcr0AAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: 'MEDLAYXPLAIN: Benchmarking the Expert-Lay Gap in Medical Vision-Language Models'
+    year: '2026'
   XWmBcr0AAAAJ:u5HHmVD_uO8C:
     citations: 12
     title: Associated factors of spontaneous hemorrhage in brain metastases in patients with lung adenocarcinoma
@@ -50,6 +54,6 @@ papers:
     title: 'CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation'
     year: '2026'
   XWmBcr0AAAAJ:zYLM7Y9cAGgC:
-    citations: 54
+    citations: 56
     title: 'Evaluation of GPT-4 for 10-year cardiovascular risk prediction: Insights from the UK Biobank and KoGES data'
     year: '2024'
