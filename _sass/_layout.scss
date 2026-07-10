@@ -55,4 +55,41 @@ body.sticky-bottom-footer {
 * Projects
 *****************************************************************************/
 
-// TODO: redefine projects layout.
+// Project cards are rendered by _includes/projects.liquid (grid) and
+// _includes/projects_horizontal.liquid (horizontal); shared card styles
+// live in _sass/_components.scss.
+
+.projects {
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+
+  .card-text {
+    font-size: 0.875rem;
+  }
+
+  // Repository link and star count shown at the bottom of a card.
+  .github-icon {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    .icon a {
+      color: var(--global-text-color);
+      font-size: 1.5rem;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
+    .stars {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.875rem;
+      color: var(--global-text-color);
+    }
+  }
+}
