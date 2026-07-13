@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-13'
 papers:
   XWmBcr0AAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'Readability versus accuracy in LLM-transformed radiology reports: stakeholder preferences across reading grade levels'
     year: '2025'
   XWmBcr0AAAAJ:qjMakFHDy7sC:
-    citations: 30
+    citations: 31
     title: 'Redefining health care data interoperability: empirical exploration of large language models in information exchange'
     year: '2024'
   XWmBcr0AAAAJ:roLk4NBRz8UC:
@@ -54,6 +54,6 @@ papers:
     title: 'CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation'
     year: '2026'
   XWmBcr0AAAAJ:zYLM7Y9cAGgC:
-    citations: 56
+    citations: 58
     title: 'Evaluation of GPT-4 for 10-year cardiovascular risk prediction: Insights from the UK Biobank and KoGES data'
     year: '2024'
