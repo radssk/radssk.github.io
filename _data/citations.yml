@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-27'
 papers:
   XWmBcr0AAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'Readability versus accuracy in LLM-transformed radiology reports: stakeholder preferences across reading grade levels'
     year: '2025'
   XWmBcr0AAAAJ:qjMakFHDy7sC:
-    citations: 31
+    citations: 32
     title: 'Redefining health care data interoperability: empirical exploration of large language models in information exchange'
     year: '2024'
   XWmBcr0AAAAJ:roLk4NBRz8UC:
