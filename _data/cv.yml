@@ -57,6 +57,10 @@ cv:
         start_date: 2018
         end_date: 2019
 
+    Academic Service:
+      - bullet: "**Associate Editor**, _Radiology: In Training_ — Radiological Society of North America (RSNA), 2026 – 2027."
+      - bullet: "**Ad Hoc Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
+
     Awards:
       - bullet: "**Trainee Research Prize** (Imaging Informatics category) — Radiological Society of North America (RSNA) (2025)"
       - bullet: "**Merit Academic Paper Award** (Spring 2025) — Yonsei University Graduate School (2025)"
@@ -69,10 +73,6 @@ cv:
       - bullet: "**Physician-Scientist Training Program** — Yonsei University College of Medicine (KRW 75M / USD 58K), 2023 – 2026"
       - bullet: "**Full-time PhD Program**, MD-PhD/Medical Scientist Training Program — Korea Health Industry Development Institute, Ministry of Health & Welfare (KRW 225M / USD 173K), 2023 – 2026"
       - bullet: "**Residency Program**, MD-PhD/Medical Scientist Training Program — Korea Health Industry Development Institute, Ministry of Health & Welfare (KRW 20M / USD 15K), 2022 – 2023"
-
-    Licenses and Certifications:
-      - bullet: "**Board of Radiology** (No. 4615), Ministry of Health & Welfare, Republic of Korea (2023)"
-      - bullet: "**Medical Doctor License** (No. 130233), Ministry of Health & Welfare, Republic of Korea (2018)"
 
     Publications:
       - bullet: "See the full list on the [publications page](/publications/)."
@@ -96,9 +96,14 @@ cv:
       - bullet: "_Applying Large Language Models in Medicine with Python — A Practical Guide_ — **Lab of Artificial Intelligence in Medicine, Graduate School of Medicine, Ajou University**, Suwon (2024.05.13)."
       - bullet: "_Bulk Processing and Utilization of Large Language Models via APIs — Hands-On Training_ — **2024 Winter School of the Korean Society of Medical Informatics (KOSMI)**, Seoul (2024.01.17)."
 
-    Academic Service:
-      - bullet: "**Associate Editor**, _Radiology: In Training_ — Radiological Society of North America (RSNA), 2026 – 2027."
-      - bullet: "**Ad Hoc Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
+    Licenses and Certifications:
+      - bullet: "**Board of Radiology** (No. 4615), Ministry of Health & Welfare, Republic of Korea (2023)"
+      - bullet: "**Medical Doctor License** (No. 130233), Ministry of Health & Welfare, Republic of Korea (2018)"
+
+    Professional development:
+      - bullet: "**Emergency Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2024)"
+      - bullet: "**Clinical Research Methodology Course (CRMC) – Advanced Program**, The Korean Society of Radiology (2023) — Completed a 2-day mentoring workshop on advanced research methodologies, including statistical techniques, and delivered a presentation on a selected topic."
+      - bullet: "**Advanced Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2023)"
 
     Projects:
       - name: Development of a Multidimensional Quality Evaluation System for Health and Medical Big Data
@@ -112,11 +117,6 @@ cv:
         highlights:
           - Contributed as research associate, focusing on developing metrics, programs, and guidelines for medical data quality management.
           - Presented project outcomes at consortium meetings.
-
-    Professional development:
-      - bullet: "**Emergency Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2024)"
-      - bullet: "**Clinical Research Methodology Course (CRMC) – Advanced Program**, The Korean Society of Radiology (2023) — Completed a 2-day mentoring workshop on advanced research methodologies, including statistical techniques, and delivered a presentation on a selected topic."
-      - bullet: "**Advanced Certificate**, Radiological Society of North America (RSNA) Imaging AI Certificate Program (2023)"
 
     Patents:
       - bullet: "Yoon, D., **Kim, S.**, Ryu, J., Choi, Y., Han, C. *Apparatus and method for evaluating the quality of medical data based on fidelity.* Korean Patent Application No. 10-2024-0094441, filed July 17, 2024. Patent pending."
