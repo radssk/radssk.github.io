@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two presentations accepted at **[RSNA 2026](https://www.rsna.org/annual-meeting)**, Chicago. :chart_with_upwards_trend:
+Two of my studies have been accepted for presentation at the **[2026 Radiological Society of North America Annual Meeting](https://www.rsna.org/annual-meeting)**. :chart_with_upwards_trend:
