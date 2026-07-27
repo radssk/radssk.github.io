@@ -78,6 +78,8 @@ cv:
       - bullet: "See the full list on the [publications page](/publications/)."
 
     Conference Activities:
+      - bullet: "**Oral Presentation**, _Abdominal CT and Brain MRI Phenotypes Across the Glycemic Spectrum: Graded Body–Brain Signatures of Prediabetes and Diabetes_, RSNA 2026, Chicago."
+      - bullet: "**Poster Presentation**, _Agentic AI for Longitudinal Assessment of Brain Metastases: Reproducible Reporting and Human-in-the-Loop Safety_, RSNA 2026, Chicago."
       - bullet: "**Educational Poster (presenter)**, _AI-Driven Opportunistic Screening for Hidden Clinical Risks: A Practical Research Primer_, ECR 2026, Vienna — *Top-rated Poster, EPOS™ PULSE Live presentation*."
       - bullet: "**Digital presentation (presenter)**, _Opportunistic Screening of Diabetes Using AI-Extracted Whole-body MRI Biomarkers_, RSNA 2025, Chicago — *Trainee Research Prize*."
       - bullet: "**Oral presentation (presenter)**, _AI-Driven MRI Biomarker Extraction and Machine Learning Analysis of Their Association with Diabetes: A UK Biobank Study_, ECR 2025, Vienna."
@@ -95,7 +97,8 @@ cv:
       - bullet: "_Bulk Processing and Utilization of Large Language Models via APIs — Hands-On Training_ — **2024 Winter School of the Korean Society of Medical Informatics (KOSMI)**, Seoul (2024.01.17)."
 
     Academic Service:
-      - bullet: "**Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
+      - bullet: "**Associate Editor**, _Radiology: In Training_ — Radiological Society of North America (RSNA), 2026 – 2027."
+      - bullet: "**Ad Hoc Peer Reviewer** — MICCAI 2026, PLOS Digital Health."
 
     Projects:
       - name: Development of a Multidimensional Quality Evaluation System for Health and Medical Big Data
