@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   XWmBcr0AAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -11,7 +11,7 @@ papers:
     year: '2025'
   XWmBcr0AAAAJ:UeHWp8X0CEIC:
     citations: 8
-    title: "Development and Validation of Deep Learning\u2013Based Infectivity Prediction in Pulmonary Tuberculosis Through Chest Radiography: Retrospective Study"
+    title: "Development and validation of deep learning\u2013based infectivity prediction in pulmonary tuberculosis through chest radiography: retrospective study"
     year: '2024'
   XWmBcr0AAAAJ:W7OEmFMy1HYC:
     citations: 1
@@ -23,14 +23,14 @@ papers:
     year: '2026'
   XWmBcr0AAAAJ:YsMSGLbcyi4C:
     citations: 2
-    title: 'In-Context Learning with Large Language Models: A Simple and Effective Approach to Improve Radiology Report Labeling'
+    title: 'In-context learning with large language models: A simple and effective approach to improve radiology report labeling'
     year: '2025'
   XWmBcr0AAAAJ:_FxGoFyzp5QC:
     citations: 1
     title: Surrogate modeling for interpreting black-box LLMs in medical predictions
     year: '2026'
   XWmBcr0AAAAJ:d1gkVwhDpl0C:
-    citations: 23
+    citations: 24
     title: Clinico-radiological features of brain metastases from thyroid cancer
     year: '2021'
   XWmBcr0AAAAJ:eQOLeE2rZwMC:
