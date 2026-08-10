@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-10'
 papers:
   XWmBcr0AAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -54,6 +54,6 @@ papers:
     title: 'CheXthought: A global multimodal dataset of clinical chain-of-thought reasoning and visual attention for chest X-ray interpretation'
     year: '2026'
   XWmBcr0AAAAJ:zYLM7Y9cAGgC:
-    citations: 58
+    citations: 59
     title: 'Evaluation of GPT-4 for 10-year cardiovascular risk prediction: Insights from the UK Biobank and KoGES data'
     year: '2024'
