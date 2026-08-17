@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two of our studies were accepted for presentation at **[RSNA 2026](https://www.rsna.org/annual-meeting)**.
+Two of our studies were accepted for presentation at **[RSNA 2026](https://www.rsna.org/annual-meeting)**. Tracking brain metastases over time with agentic AI, and mapping how the body and brain change across the glycemic spectrum.
