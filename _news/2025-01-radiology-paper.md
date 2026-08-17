@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper made it into _**Radiology**_. [It](https://pubs.rsna.org/doi/10.1148/radiol.240701) asks whether GPT-4 can catch the errors we miss in head CT reports, tested across a large batch of real ones.
+Our paper made it into _**[Radiology](https://pubs.rsna.org/doi/10.1148/radiol.240701)**_. Can GPT-4 proofread a radiology report? We tested it at scale.
