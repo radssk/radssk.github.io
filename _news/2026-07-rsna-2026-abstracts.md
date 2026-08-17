@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two of our studies were accepted for presentation at **[RSNA 2026](https://www.rsna.org/annual-meeting)**. One applies agentic AI to longitudinal brain metastasis assessment; the other maps body and brain changes across the glycemic spectrum.
+Two of our studies were accepted for presentation at **[RSNA 2026](https://www.rsna.org/annual-meeting)**. One is about longitudinal brain metastasis analysis with agentic AI; the other, body and brain changes across the glycemic spectrum.
