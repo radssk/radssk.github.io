@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted to _[Radiology](https://pubs.rsna.org/doi/10.1148/radiol.240701)_. It's about validating LLM proofreading of radiology reports.
+Our paper was accepted to _**[Radiology](https://pubs.rsna.org/doi/10.1148/radiol.240701)**_. It's about validating LLM proofreading of radiology reports.
