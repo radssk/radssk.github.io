@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the **[Trainee Research Prize](https://www.rsna.org/research/research-awards/trainee-research-prize)** in Imaging Informatics at RSNA 2025. Whole-body MRI biomarkers for diabetes.
+Awarded the **[Trainee Research Prize](https://www.rsna.org/research/research-awards/trainee-research-prize)** in Imaging Informatics at RSNA 2025. Opportunistic diabetes screening with AI-extracted whole-body MRI biomarkers.
