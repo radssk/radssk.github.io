@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Appointed **Associate Editor** of the RSNA _Radiology_ **[Early Career Editorial Board](https://pubs.rsna.org/page/radiology/radintraining/edboard)** for 2026–2027.
+Appointed **Associate Editor** of the RSNA **[Radiology Early Career Editorial Board](https://pubs.rsna.org/page/radiology/radintraining/edboard)** for 2026–2027.
