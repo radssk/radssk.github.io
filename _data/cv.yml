@@ -91,6 +91,7 @@ cv:
       - bullet: "**Organizing Committee Member**, Young Radiologists Forum, KSSR Spring Symposium 2022, Busan."
 
     Invited Lectures and Seminars:
+      - bullet: "_Vision-Language Models and Agentic AI for Radiology Reading Assistance_ — **14th International Congress on MRI & 31st Annual Scientific Meeting of the Korean Society of Magnetic Resonance in Medicine (ICMRI 2026)**, Recent Advances in Artificial Intelligence & Medical Imaging Session, Seoul (2026.08.28)."
       - bullet: "_Leveraging Large Language Models for Error Detection in Radiology Reports_ — **2025 Spring Conference of the Korean Society of Medical and Biological Engineering (KOSOMBE)**, Clinician-Engineer Session, Jeju (2025.05.08)."
       - bullet: "_Medical Data-Specific Quality Management Metrics_ — **2024 Symposium of the Institute for Innovation in Digital Healthcare (IIDH)**, LYDUS Session, Severance Hospital, Seoul (2024.11.20)."
       - bullet: "_Applying Large Language Models in Medicine with Python — A Practical Guide_ — **Lab of Artificial Intelligence in Medicine, Graduate School of Medicine, Ajou University**, Suwon (2024.05.13)."
