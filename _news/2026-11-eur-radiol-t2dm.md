@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper was accepted to **[European Radiology](https://doi.org/10.1007/s00330-026-12978-7)**. It's about how multi-organ and body composition phenotyping reveals metabolic signatures of incident type 2 diabetes.
+Our paper was accepted to **_[European Radiology](https://doi.org/10.1007/s00330-026-12978-7)_**. It's about how multi-organ and body composition phenotyping reveals metabolic signatures of incident type 2 diabetes.
